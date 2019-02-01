@@ -1,2 +1,2 @@
 # MaintanceWebsite
-Webpage put up while webpage is in production
+Webpage put up while webpage is in production.
